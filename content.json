@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "name",
+  "custom-list": [
+    {
+      "custom-list-item": "andre"
+    },
+    {
+      "custom-list-item": "roger"
+    }
+  ],
+  "custom-object": {
+    "custom-line": "hello world",
+    "custom-text": "this is how we get it going"
+  }
+}
